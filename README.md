@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+## Preview
+<img src="https://github.com/birdbone/flutter_signin_screen_ui/blob/master/shotscreens/MainScreen.png" style="width: 350px" />
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
